@@ -8,7 +8,7 @@ import java.util.stream.IntStream;
 @SuppressWarnings({ "unused", "preview" })
 public class HttpPlayer {
 
-  private static final int NUM_USERS = 1;
+  private static final int NUM_USERS = 13;
 
   public static void main(String[] args) {
     // System.out.println("Hello, World!");
